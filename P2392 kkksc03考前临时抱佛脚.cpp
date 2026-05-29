@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// https://www.luogu.com.cn/problem/P2392
+
 const int INF = 1e9;
 int n;
 int s[25];
